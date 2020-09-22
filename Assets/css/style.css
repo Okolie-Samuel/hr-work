@@ -1,5 +1,5 @@
 *{
-	
+	max-width: 100%;
 }
 
 #space{
@@ -70,11 +70,13 @@ header{
 	line-height: 25px;
 	letter-spacing: 0px;
 	text-align: left;
+	margin-left: 5%;
 }
 
 #crd{
 	background: rgba(249, 155, 173, 0.5);
 	color: #EF0633;
+	margin-left: 5%;
 }
 
 #our{
@@ -312,9 +314,24 @@ text-align: right;
 	text-align: center;
 }
 
-.card-horizontal {
-    display: flex;
-    flex: 0 1 auto;
+#lor{
+	font-family: Proxima Nova;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 24px;
+	letter-spacing: 0px;
+	text-align: left;
+	color: #EF0633;
+}
+
+#date{
+	font-family: Proxima Nova;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	line-height: 34px;
+	color: #888888;
 }
 
 footer{
